@@ -1,0 +1,33 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, button {
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+button {
+  margin-left: 10px;
+}
